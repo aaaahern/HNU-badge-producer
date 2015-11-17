@@ -1,7 +1,7 @@
 HNU-badge-producer
 ==================
 
-demo: develop.ahernzhan.com/badge-producer(develop.ahernzhan.com/badge-producer)
+demo: develop.ahernzhan.com/badge-producer
 
 HNU校徽生成器，可以改大小、颜色。
 可以稍作修改适应任何单色LOGO的抠图。
